@@ -3,7 +3,9 @@ Contains two notebooks:
 - Structured Streaming using Event Hubs 
 - Transformations 
 
-For the Event Hub producer, you can use the prod.py file as a starting point
+For the Event Hub producer, you can use the prod.py file as a starting point.
+
+Products.csv is the sample file used in the Transformations notebook.
 
 
 ## ML Integration.dbc
