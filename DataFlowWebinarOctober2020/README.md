@@ -16,3 +16,5 @@ Contains 6 notebooks:
 - 04 - Training and Hyper-parameter tuning
 - 05 - MLFlow
 - 06 - InterpretML
+
+You can find the flights_weather.csv [here](https://onedrive.live.com/?authkey=%21AO4xF-jk2-I_Ak0&cid=9C0AF81B735E29EA&id=9C0AF81B735E29EA%2123363&parId=9C0AF81B735E29EA%21229&action=defaultclick).
